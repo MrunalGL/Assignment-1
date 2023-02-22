@@ -1,0 +1,53 @@
+body, html {
+    margin: 0 auto;
+    padding: 0;
+    background-color: antiquewhite;
+ }
+
+.nav_bar {
+    background-color: brown;
+    height: 35px;
+    margin: 0;
+    width: 100%;    
+}
+
+.nav_bar a {
+    color: white;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 135px;
+    font-size: medium;
+}
+
+li a{
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    justify-content: space-evenly;
+}
+
+.Spruce {
+    background-color: #333;
+    color: white;
+}
+
+.Heading h1 b{
+    margin-left: 100px;
+}
+
+.Number a{
+    color: brown;
+    align: 
+}
+
+.image img {
+    width: 650px;
+    height: 450px;
+    border-radius: 8px;
+}
+
+h1 .fp {
+    color: blueviolet ;
+}
+
